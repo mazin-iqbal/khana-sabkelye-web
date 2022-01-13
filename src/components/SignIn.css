@@ -1,0 +1,14 @@
+.logo{
+    width: 60%;
+  }
+
+.signInText{
+    color: white;
+    text-decoration: none;
+    font-size: 100;
+  }
+
+/* .signInText:hover{
+    color: white;
+    text-decoration: none;
+} */
